@@ -7,7 +7,7 @@ export default function About() {
         <div className="m-4 md:ml-20 sm:ml-12 md:w-1/2 text-gray-600">
             <h1 className="text-5xl my-6 text-gray-600 font-bold">About Me </h1>
           
-                <p className='text-base md:text-lg'>My journey in IT began in 20 since then, I have had the privilege to work on a diverse range of projects, allowing me to refine my skills and approach to problem-solving.</p>
+                <p className='text-base md:text-lg'>My journey in IT began in 2023 since then, I have had the privilege to work on a diverse range of projects, allowing me to refine my skills and approach to problem-solving.</p>
                 <p className=' text-base md:text-lg'> I thrive on turning complex ideas into elegant solutions that not only meet user needs but also create lasting impacts. </p>
             </div>
 
